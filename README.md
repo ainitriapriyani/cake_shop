@@ -100,6 +100,8 @@ stellar contract invoke --id <CONTRACT_ID> --source alice --network testnet -- d
 ```
 CAQQVJ5ETSO63UGA5WPM3TBBWTUK6GUCG4Y6YD4AVBR3TRABVPXLDTM2
 ```
+<img width="957" height="426" alt="image" src="https://github.com/user-attachments/assets/133420a0-17f9-47d9-b1b7-a92a61a2ebc2" />
+
 
 ---
 
